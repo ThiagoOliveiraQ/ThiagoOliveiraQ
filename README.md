@@ -1,8 +1,16 @@
 ### Olá! Eu sou o Thiago Oliveira 🖐️
-
+  
 [![Contact](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.souza.1138412@sga.pucminas.br) [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiaggliveira/)
-
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraQ&show_icons=true&theme=dracula) 
+<br/>
+<div align="left">
+  <a href="https://github.com/ThiagoOliveiraQ">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoOliveiraQ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisacoutinho06&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+</div>
+<br>
+     
+**🎓 Análise e desenvolvimento de sistemas 2º/5º - PUC MINAS**
 
 ## Tecnologias que utilizo
 
