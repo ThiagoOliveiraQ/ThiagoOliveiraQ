@@ -10,7 +10,7 @@
 </div>
 <br>
      
-**🎓 Análise e desenvolvimento de sistemas 2º/5º - PUC MINAS**
+**🎓 Análise e desenvolvimento de sistemas 4º/5º - PUC MINAS**
 
 ## Tecnologias que utilizo
 
